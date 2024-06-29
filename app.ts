@@ -13,7 +13,7 @@ console.log(
 console.log(
   chalk.bold.blue(
     `<<<=========>>>  ${chalk.blueBright.bold(
-      "Welcome To 'Hafeez Siddiqui' - Student Management System"
+      "Welcome To 'Hafeez Siddiqui' - Adventure Game"
     )}  <<<=========>>>`
   
   )

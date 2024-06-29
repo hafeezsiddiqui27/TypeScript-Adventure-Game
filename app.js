@@ -3,7 +3,7 @@ import inquirer from "inquirer";
 import chalk from "chalk";
 //displaying welcome message
 console.log(chalk.bold.yellow(`\n  \t\t <<<================================================>>>`));
-console.log(chalk.bold.blue(`<<<=========>>>  ${chalk.blueBright.bold("Welcome To 'Hafeez Siddiqui' - Student Management System")}  <<<=========>>>`));
+console.log(chalk.bold.blue(`<<<=========>>>  ${chalk.blueBright.bold("Welcome To 'Hafeez Siddiqui' - Adventure Game")}  <<<=========>>>`));
 console.log(chalk.bold.yellow(`\t\t <<<===============================================>>>\n`));
 class Hero {
     name;
